@@ -28,6 +28,7 @@ used gently factory five mk1 roa:set as parking location
 re:set as parking location
 air:set as parking location
 jack:set as parking location
+ford:set as parking location
 sell:set as parking location
 now:set as parking location
 start:set as parking location
@@ -76,6 +77,7 @@ music:set as parking location music m/" dolla d/"
 homes:set as parking location homes h/" dolla d/"
 sports:set as parking location sport s/" dolla d/"
 solution:set as parking location solut s/" dolla d/"
+for:set as parking location
 architecture:set as parking location archi a/" dolla d/"
 date:set as parking location date d/" dolla d/"
 time:set as parking location time t/" dolla d/"
