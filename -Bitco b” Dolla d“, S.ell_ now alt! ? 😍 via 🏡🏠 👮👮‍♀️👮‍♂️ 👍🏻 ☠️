@@ -66,8 +66,7 @@ block:set as parking location
 accident:set as parking location
 watch:set as parking location
 age:set as parking location
-a b c d e f g h i j k l m n o p q r s t u v w x y z:set as parking location
-1 2 3 4 5 6 7 8 9 0:set as parking location
+a b c d e f g h i j k l m n o p q r s t u v w x y z_1 2 3 4 5 6 7 8 9 0:set as parking location
 orientation:set as parking location
 rig:set as parking location
 sex:set as parking location
