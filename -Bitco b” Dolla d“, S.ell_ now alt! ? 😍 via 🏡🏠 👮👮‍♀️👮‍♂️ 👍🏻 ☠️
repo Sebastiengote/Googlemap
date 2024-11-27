@@ -46,7 +46,7 @@ bmw:set as parking location
 music:set as parking location
 sound:set as parking location
 view:set as parking location
-ac:set as parking location
+rv ac:set as parking location
 #:set as parking location # #/" dolla d/"
 MM:set as parking location
 F1:set as parking location
