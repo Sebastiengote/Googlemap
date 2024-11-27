@@ -8,6 +8,8 @@ do:set as parking location
 how:set as parking location
 fight:set as parking location
 microsoft:set as parking location
+in:set as parking location
+out:set as parking location
 stand:set as parking location
 googlemap:set as parking location
 after:set as parking location
