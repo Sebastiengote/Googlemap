@@ -16,6 +16,7 @@ after:set as parking location
 bank:set as parking location
 owner:set as parking location
 _:set as parking location
+dft:set as parking location
 zoom:set as parking location
 tint:set as parking location
 emoji:set as parking location
